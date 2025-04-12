@@ -51,5 +51,5 @@ Improve ROI through targeted promotions
 👩‍💻 Author
 Keerthana Dinesh
 SkillCraft Technology | ML Intern
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/keerthanadinesh95/)
 
