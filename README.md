@@ -38,6 +38,7 @@ Segment customers into meaningful groups.
 Visualize clusters using matplotlib.
 
 💡 Result Visualization
+Customer_Segments.png
 
 🚀 Conclusion
 KMeans successfully classified the customer base into distinct clusters, revealing spending habits and income ranges. Businesses can leverage this to:
